@@ -1,11 +1,3 @@
-/*
- * Lab 3
- * Description: Tic Tac Toe
- * Name: Phillip Ma
- * ID: 920556972
- * Class: CSC 210-04
- * Semester: Fall 21
- */
 
 import java.lang.reflect.Array;
 import java.util.*;
